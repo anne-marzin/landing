@@ -6,6 +6,7 @@ body{
 	font-family: "Roboto", serif;
 	font-weight: 400;
 	font-style: normal;
+	font-color: black
 }
 	
 }
@@ -13,5 +14,5 @@ h1,h2,h3{
 	font-family: "Roboto", serif;
 	font-weight: 400;
 	font-style: normal;
-	font-color: #AC4B01;
+	font-color: black;
 }
