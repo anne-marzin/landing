@@ -18,3 +18,21 @@
 	opacity:0.8;
 	margin-bottom: 40px;
 }
+
+@media (max-width: 960px) {
+    .container {
+        width: 600px;
+    }
+}
+
+@media (max-width: 720px) {
+    .container {
+        width: 400px;
+    }
+}
+
+@media (max-width: 540px) {
+    .container {
+        width: 300px;
+    }
+}
