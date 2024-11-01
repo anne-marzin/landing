@@ -1,17 +1,19 @@
 .banner{
-	background-image:linear-gradient(-225deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 50%), url("https://github.com/anne-marzin/landing/blob/main/P1038463-1.jpg?raw=true");
-	padding: 200px 0px;
+	background-image:linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.3) 50%), url("https://github.com/anne-marzin/landing/blob/main/P1038463-1.jpg?raw=true");
+	padding: 150px 0px;
 	background-size: cover;
 	background-position: center;
 	height: 45vh;
+	color: white;
+	margin: 0px;
 }
 
 .banner h1{
-	font-size: 50px;
+	font-size: 40px;
 }
 
 .banner h2 {
-	font-size : 30px;
+	font-size : 20px;
 	font-weight : lighter;
 	opacity:0.8;
 	margin-bottom: 40px;
