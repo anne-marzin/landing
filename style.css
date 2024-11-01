@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap");
+
+@import url("components/container.css");
+
+body{
+	font-family: "Roboto", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+	
+}
+h1,h2,h3{
+	font-family: "Roboto", serif;
+	font-weight: 400;
+	font-style: normal;
+}
